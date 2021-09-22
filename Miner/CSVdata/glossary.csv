@@ -1,0 +1,11 @@
+term,definition
+symbol,this is the code for the company in the stock market.
+volume,means the total number of shares that were traded for that particular day
+day range,This is the highest and the lowest price that the stock has reached within the trading day
+52 week range,This is the highest and lowest price that the stock has reached within a span of 52 weeks
+dividend,"This is the income of the company that is distributed to all the shareholders of the company either on monthly, quarterly or yearly basis"
+yield,
+open price,The price of the first trade for any listed stock is its daily opening price. 
+closing price,The final price at which it trades during regular market hours on any given day.
+categories,"Types of stocks: Income, Penny, Speculative, Growth, Defensive, Value, Cyclical"
+sector,"General representative of the overall sectors of the economy. Example: Energy, Basic Materials, Industrials, Consumer Discretionary, Consumer Staples, Healthcare, Financial, Information Technology, Communications, Utilities, Real Estate."
